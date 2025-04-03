@@ -183,7 +183,8 @@ const TruncateText = ({ text }) => {
                   fontSize: "17px",
                 }}
               >
-              {cartItems.length}
+              {/* {cartItems.length} */}
+             hello
               </p>
             </li>
            }
